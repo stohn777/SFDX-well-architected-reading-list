@@ -1,4 +1,5 @@
 # Blogs
+Thanks @ImJohnMDaniel for the compilation
 
 ## Blog Series by Andy Fawcett on Salesforce LightningPlatform
 
